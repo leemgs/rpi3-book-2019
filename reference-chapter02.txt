@@ -1,0 +1,8 @@
+﻿
+https://www.python.org/downloads/
+
+https://www.jetbrains.com/pycharm
+
+https://docs.python.org/3/library/stdtypes.html#comparisons
+
+End of line

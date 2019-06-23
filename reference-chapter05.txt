@@ -1,0 +1,38 @@
+﻿
+
+### 01 to 10
+
+
+ https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi
+
+https://www.google.co.kr/search?q=opencv+flask+streaming&source=lnt&tbs=qdr:y&sa=X&ved=0ahUKEwjMxNeryN3cAhVIurwKHfqDCRMQpwUIHg&biw=1327&bih=876
+
+https://randomnerdtutorials.com/cctv-raspberry-pi-based-system-storage-motioneyeos/
+
+https://github.com/ccrisan/motioneyeos
+
+
+
+### 11 to 20
+
+
+http://www.ktman.pe.kr/RaspberryPi/59477 (집안 온도 알림 측정기)
+
+https://bobrathbone.com/raspberrypi/pi_internet_radio.html
+
+https://circuitdigest.com/microcontroller-projects/raspberry-pi-based-jarvis-themed-speaking-alarm-clock 
+
+https://www.instructables.com/id/Smile-Detection-With-Raspberry-Pi-Using-Opencv-and/
+
+https://www.instructables.com/id/Raspberry-Pi-Minecraft-Server/
+
+https://www.instructables.com/id/WeggUp-A-sleeping-cycle-and-light-alarm-clocke/
+ 
+https://www.instructables.com/id/WhatsApp-on-Raspberry-Pi/
+
+https://www.instructables.com/id/Build-your-own-Mini-Arcade-Cabinet-with-Raspberry-/
+
+https://www.instructables.com/id/Coffee-Table-Pi/
+
+
+End of line
